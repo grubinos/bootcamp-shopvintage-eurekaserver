@@ -1,0 +1,2 @@
+com/shopvintage/eurekaserver/EurekaServerApplicationTests.java
+ com.shopvintage.eurekaserver.EurekaServerApplicationTests
